@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "lazy-gold-progression",
+	"version": "${version}",
+	"name": "Lazy Gold Progression",
+	"description": "Rebalances vanilla progression with buffed Gold tier and smoother stat scaling.",
+	"authors": [
+		"Dasik"
+	],
+	"contact": {
+		"homepage": "https://github.com/Dasik/better-vanilla-progression"
+	},
+	"license": "MIT",
+	"icon": "assets/lazy-gold-progression/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "com.dasik.betterprogression.BetterVanillaProgression",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "com.dasik.betterprogression.BetterVanillaProgressionClient",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"lazy-gold-progression.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	}
+}
