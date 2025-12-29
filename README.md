@@ -122,8 +122,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Rifaditya/Lazy-Gold-Progression)
-- [Issue Tracker](https://github.com/Rifaditya/Lazy-Gold-Progression/issues)
+- [GitHub Repository](https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression)
+- [Issue Tracker](https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression/issues)
 
 ---
 
