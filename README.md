@@ -1,4 +1,4 @@
-# 🏆 Lazy Gold Progression
+# 🏆 Vanilla Outsider: Gold Progression
 
 A Fabric mod for Minecraft 1.21.11 that rebalances vanilla progression by making Gold tier equipment actually useful and creating a smoother stat scaling between tiers.
 
@@ -8,9 +8,9 @@ A Fabric mod for Minecraft 1.21.11 that rebalances vanilla progression by making
 
 ## 📖 Overview
 
-In vanilla Minecraft, Gold equipment is often overlooked due to its low durability and underwhelming stats compared to Iron. **Lazy Gold Progression** addresses this by transforming Gold into a legitimate mid-game tier, bridging the gap between Stone and Iron tools while adding unique characteristics that make it worthwhile to craft and use.
+In vanilla Minecraft, Gold equipment is often overlooked due to its low durability and underwhelming stats compared to Iron. **Vanilla Outsider: Gold Progression** addresses this by transforming Gold into a legitimate mid-game tier, bridging the gap between Stone and Iron tools while adding unique characteristics that make it worthwhile to craft and use.
 
-This mod is part of the **Lazy Mods** collection, designed to enhance vanilla gameplay without being intrusive or overly complex.
+This mod is part of the **Vanilla Outsider** collection — mods that enhance vanilla Minecraft using only vanilla items, bringing an outsider's perspective to pure vanilla gameplay.
 
 ---
 
@@ -62,7 +62,7 @@ Gold now sits comfortably between Stone and Iron, making early-game progression 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 1.21.11
 2. Download and install [Fabric API](https://modrinth.com/mod/fabric-api)
 3. Download and install [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-4. Download the latest release of **Lazy Gold Progression**
+4. Download the latest release of **Vanilla Outsider: Gold Progression**
 5. Place the mod `.jar` file in your `mods` folder
 6. Launch Minecraft with the Fabric profile
 
@@ -131,6 +131,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ for the Minecraft community**
 
-*Part of the Lazy Mods Collection*
+*Part of the Vanilla Outsider Collection*
 
 </div>

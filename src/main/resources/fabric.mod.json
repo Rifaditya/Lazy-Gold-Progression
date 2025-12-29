@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "lazy-gold-progression",
 	"version": "${version}",
-	"name": "Lazy Gold Progression",
-	"description": "Rebalances vanilla progression with buffed Gold tier and smoother stat scaling.",
+	"name": "Vanilla Outsider: Gold Progression",
+	"description": "Part of the Vanilla Outsider collection. Rebalances vanilla progression with buffed Gold tier and smoother stat scaling - using only vanilla items.",
 	"authors": [
 		"Dasik"
 	],
