@@ -8,7 +8,7 @@ import java.nio.file.Path
 
 object ModConfig {
     private val gson: Gson = GsonBuilder().setPrettyPrinting().create()
-    private val configPath: Path = FabricLoader.getInstance().configDir.resolve("lazy-gold-progression.json")
+    private val configPath: Path = FabricLoader.getInstance().configDir.resolve("vanilla-outsider-gold-progression.json")
 
     var config: ConfigData = ConfigData()
         private set

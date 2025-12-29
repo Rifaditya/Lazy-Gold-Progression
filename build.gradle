@@ -23,7 +23,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"lazy-gold-progression" {
+		"vanilla-outsider-gold-progression" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

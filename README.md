@@ -34,10 +34,10 @@ Gold tools and armor have been completely rebalanced to serve as a viable progre
 The mod implements a smooth progression curve:
 
 ```
-Wood → Stone → Gold → Iron → Diamond → Netherite
+Wood → Stone → Iron → Gold → Diamond → Netherite
 ```
 
-Gold now sits comfortably between Stone and Iron, making early-game progression feel more rewarding and giving players a reason to mine and use that gold ore they find.
+Gold now sits comfortably between Iron and Diamond, making mid-game progression feel more rewarding and giving players a reason to invest in gold equipment.
 
 ### 🎯 Key Benefits
 
@@ -87,7 +87,7 @@ The mod includes custom crafting recipes for all golden equipment pieces:
 ### Mod Structure
 
 ```
-lazy-gold-progression/
+vanilla-outsider-gold-progression/
 ├── src/main/kotlin/com/dasik/betterprogression/
 │   ├── BetterVanillaProgression.kt    # Main mod entrypoint
 │   └── ModConfig.kt                    # Configuration handling

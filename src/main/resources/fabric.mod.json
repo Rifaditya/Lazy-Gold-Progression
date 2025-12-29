@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "lazy-gold-progression",
+	"id": "vanilla-outsider-gold-progression",
 	"version": "${version}",
 	"name": "Vanilla Outsider: Gold Progression",
 	"description": "Part of the Vanilla Outsider collection. Rebalances vanilla progression with buffed Gold tier and smoother stat scaling - using only vanilla items.",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/Rifaditya/Lazy-Gold-Progression"
 	},
 	"license": "MIT",
-	"icon": "assets/lazy-gold-progression/icon.png",
+	"icon": "assets/vanilla-outsider-gold-progression/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -29,7 +29,7 @@
 		]
 	},
 	"mixins": [
-		"lazy-gold-progression.mixins.json"
+		"vanilla-outsider-gold-progression.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",

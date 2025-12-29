@@ -9,7 +9,7 @@ import net.minecraft.world.item.component.ItemAttributeModifiers
 import org.slf4j.LoggerFactory
 
 object BetterVanillaProgression : ModInitializer {
-    const val MOD_ID = "lazy-gold-progression"
+    const val MOD_ID = "vanilla-outsider-gold-progression"
     private val logger = LoggerFactory.getLogger(MOD_ID)
 
     override fun onInitialize() {
