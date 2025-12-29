@@ -120,6 +120,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## 🌟 Vanilla Outsider Collection
+
+Other mods in this collection:
+
+- [Vanilla Outsider: More Animal Drops](https://github.com/Rifaditya/Vanilla-Outsider-More-Animal-Drops) - Enhanced animal loot drops
+
+---
+
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression)
