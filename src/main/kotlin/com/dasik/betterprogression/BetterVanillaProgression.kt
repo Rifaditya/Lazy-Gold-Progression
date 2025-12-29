@@ -13,10 +13,10 @@ object BetterVanillaProgression : ModInitializer {
     private val logger = LoggerFactory.getLogger(MOD_ID)
 
     override fun onInitialize() {
-        logger.info("Better Vanilla Progression loading...")
+        logger.info("Vanilla Outsider: Gold Progression loading...")
         ModConfig.load()
         registerItemModifications()
-        logger.info("Better Vanilla Progression loaded!")
+        logger.info("Vanilla Outsider: Gold Progression loaded!")
     }
     
     private fun registerItemModifications() {

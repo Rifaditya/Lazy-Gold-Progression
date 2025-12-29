@@ -5,10 +5,11 @@
 	"name": "Vanilla Outsider: Gold Progression",
 	"description": "Part of the Vanilla Outsider collection. Rebalances vanilla progression with buffed Gold tier and smoother stat scaling - using only vanilla items.",
 	"authors": [
-		"Dasik"
+		"DasikIgaijin"
 	],
 	"contact": {
-		"homepage": "https://github.com/Dasik/better-vanilla-progression"
+		"homepage": "https://github.com/Rifaditya/Lazy-Gold-Progression",
+		"sources": "https://github.com/Rifaditya/Lazy-Gold-Progression"
 	},
 	"license": "MIT",
 	"icon": "assets/lazy-gold-progression/icon.png",
@@ -36,5 +37,8 @@
 		"java": ">=21",
 		"fabric-api": "*",
 		"fabric-language-kotlin": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
 	}
 }
