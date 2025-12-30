@@ -11,7 +11,7 @@
 		"homepage": "https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression",
 		"sources": "https://github.com/Rifaditya/Vanilla-Outsider-Gold-Progression"
 	},
-	"license": "MIT",
+	"license": "GPL-3.0",
 	"icon": "assets/vanilla-outsider-gold-progression/icon.png",
 	"environment": "*",
 	"entrypoints": {
